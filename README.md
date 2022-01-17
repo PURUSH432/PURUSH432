@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PURUSH432
-- 👀 I’m interested in Web Developing in php
+- 👀 I’m interested in Web Developing in Node.js
 - 🌱 I’m currently learning software engineering in UCET
 - 💞️ I’m looking to collaborate on programmer
 - 📫 How to reach me shortly
